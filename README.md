@@ -17,7 +17,7 @@ Create a file named style.css and add the following styles:
 css
 
 Step 3: Create Dockerfile
-Create a file named Dockerfile and add the following code:
+Create a file named Dockerfile and add the following code: Dockerfile
 
 dockerfile
 Copy
