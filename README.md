@@ -8,7 +8,8 @@ Copy
 ├── index.html
 └── style.css
 Step 1: Create index.html
-Create a file named index.html and add the following code:
+Create a file named index.html and add the following code:2048-game-project
+/index.html
 
 html
 
