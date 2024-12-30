@@ -1,3 +1,10 @@
+
+
+
+
+![Project](https://github.com/user-attachments/assets/e23a8768-f955-4402-8014-b8ae083296e1)
+
+
 Simple DevOps Project: Deployment of 2048 Game on AWS using Docker
 Prerequisites
 Project Structure
@@ -14,7 +21,8 @@ Create a file named index.html and add the following code:2048-game-project
 html
 
 Step 2: Create style.css
-Create a file named style.css and add the following styles:
+Create a file named style.css and add the following styles:2048-game-project
+/style.css
 css
 
 Step 3: Create Dockerfile
